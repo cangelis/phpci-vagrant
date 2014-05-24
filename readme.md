@@ -1,6 +1,6 @@
-# Vagrant box for PHPCI Development
+# Vagrant setup for PHPCI Development
 
-This is a vagrant box with the `shell` provision for the development purposes of [PHPCI](https://github.com/Block8/PHPCI) Development.
+This is a vagrant setup with the `shell` provision for the development purposes of [PHPCI](https://github.com/Block8/PHPCI) Development.
 
 # Usage
 
