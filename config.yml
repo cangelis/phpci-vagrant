@@ -1,0 +1,11 @@
+b8:
+    database:
+        servers:
+            read: localhost
+            write: localhost
+        name: phpci
+        username: root
+        password: ''
+phpci:
+    url: 'http://localhost:8765'
+
